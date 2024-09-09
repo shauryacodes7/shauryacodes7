@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaurya Singh</h1>
+<h1 align="center">Hi 👋, I'm Shaurya Singh aka Leo </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryacodes7&label=Profile%20views&color=0e75b6&style=flat" alt="shauryacodes7" /> </p>
@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/shauryacodes7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shauryacodes7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shauryacodes7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shauryacodes7/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/leocodes7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leocodes7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
