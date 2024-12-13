@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shauryacodes7" target="blank"><img src="https://img.shields.io/twitter/follow/shauryacodes7?logo=twitter&style=for-the-badge" alt="shauryacodes7" /></a> </p>
 
-- 🔭 I’m currently working on **Disaster Management System** for **Indian Air Force**
+- 🔭 I’m currently working on a **High-Security & Realtime Disaster Management System for a Defense Organization**
 
 - 🌱 I’m currently learning **AI/ML**
 
