@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/shauryacodes7" target="blank"><img src="https://img.shields.io/twitter/follow/shauryacodes7?logo=twitter&style=for-the-badge" alt="shauryacodes7" /></a> </p>
 
-- 🔭 I’m currently working on **Razorpay Clone**
+- 🔭 I’m currently working on **Disaster Management System** for **Indian Air Force**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **AI/ML**
 
-- 🤝 I’m looking for help with **MERN STACK**
+- 🤝 I’m looking for help with **MERN STACK, Electron.JS & AI/ML**
 
 - 👨‍💻 All of my projects are available at [protfolio.com](protfolio.com)
 
-- 💬 Ask me about **react, html, css**
+- 💬 Ask me about **MERN STACK & Electron JS**
 
 - 📫 How to reach me **shauryaleo7@gmail.com**
 
